@@ -10,4 +10,4 @@
 1- Save "Login System GUI.py" on your computer.<br />
 2- Run "Login System GUI.py". The GUI window will display as shown below.<br/>
 
-<p align="center"><img src="Images/GUI%20Home%20Page.JPG" width="50%" height="50%"></p>
+<p align="center"><img src="Images/GUI%20Home%20Page.JPG" width="25%" height="25%"></p>
