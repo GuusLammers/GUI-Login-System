@@ -5,3 +5,8 @@
 1- Worked with csv library to store users username and password information.<br />
 2- Worked with tkinter to build GUI application.<br />
 3- Used object oriented programming.
+
+# User Instructions
+1- Save "Login System GUI.py" on your computer.<br />
+2- Run "Login System GUI.py". The GUI window will display as shown below.<br/>
+![alt text](https://github.com/GuusLammers/GUI-Login-System/blob/main/Images/GUI%20Home%20Page.JPGg)
