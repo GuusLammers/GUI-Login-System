@@ -11,3 +11,5 @@
 2- Run "Login System GUI.py". The GUI window will display as shown below.<br/>
 
 <p align="center"><img src="Images/GUI%20Home%20Page.JPG" width="35%" height="35%"></p>
+
+3- Test out the login system by signing up and logging in! Your account will be save when "Exit" is clicked to leave the application.
