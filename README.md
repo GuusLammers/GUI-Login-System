@@ -9,4 +9,4 @@
 # User Instructions
 1- Save "Login System GUI.py" on your computer.<br />
 2- Run "Login System GUI.py". The GUI window will display as shown below.<br/>
-
+![alt text](https://github.com/GuusLammers/GUI-Login-System/blob/Images/GUI Home Page.jpg?raw=true)
